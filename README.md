@@ -7,16 +7,16 @@ This project is published under the CC BY-NC-SA 4.0 license (https://creativecom
 
 M1 motor cortex:
 
-Based on the Brainnetome Atlas four major regions of the M1 were used as seed regions for probabilistic tractography of inter-hemispherical structural connectivity.
-The available NIFTI files are organized as follows:
-A4hf - head/face movement region of the M1
-A4ll - lower limbs movement region of the M1
-A4tl - tongue/larynx movement region of the M1
-A4ul - upper limbs movement region of the M1
+Based on the Brainnetome Atlas four major regions of the M1 were used as seed regions for probabilistic tractography of inter-hemispherical structural connectivity.<br>
+The available NIFTI files are organized as follows:<br>
+A4hf - head/face movement region of the M1<br>
+A4ll - lower limbs movement region of the M1<br>
+A4tl - tongue/larynx movement region of the M1<br>
+A4ul - upper limbs movement region of the M1<br>
 
-For every callosal parcel different types exist:
-Four probability thresholds (0, 1%, 25%, 50%)
-Unmasked or multiplied by a binary mask of the Corpus Callosum.
+For every callosal parcel different types exist:<br>
+Four probability thresholds (0, 1%, 25%, 50%)<br>
+Unmasked or multiplied by a binary mask of the Corpus Callosum.<br>
 
 When using these regions in your scientific work, please cite:<br>
 Parcellation of Motor Cortex associated Regions in the Human Corpus Callosum on the basis of Human Connectome Project data<br>
