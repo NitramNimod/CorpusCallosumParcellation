@@ -5,5 +5,5 @@ The Corpus Callosum (CC) is the largest white matter structure of the brain and 
 
 Step 1:
 
-Parcellation of Motor Cortex associated Regions in the Human Corpus Callosum on the basis of Human Connectome Project data
+Parcellation of Motor Cortex associated Regions in the Human Corpus Callosum on the basis of Human Connectome Project data<br>
 DOI: 10.1007/s00429-019-01849-1
