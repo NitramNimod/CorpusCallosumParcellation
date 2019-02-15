@@ -18,5 +18,5 @@ Four probability thresholds (0, 1%, 25%, 50%)<br>
 Unmasked or multiplied by a binary mask of the Corpus Callosum.<br>
 
 When using these regions in your scientific work, please cite:<br>
-Parcellation of Motor Cortex associated Regions in the Human Corpus Callosum on the basis of Human Connectome Project data<br>
+Parcellation of motor cortex-associated regions in the human corpus callosum on the basis of Human Connectome Project data<br>
 DOI: 10.1007/s00429-019-01849-1
