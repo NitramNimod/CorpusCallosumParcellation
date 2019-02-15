@@ -1,5 +1,4 @@
 # Human Corpus Callosum Parcellation in MNI space
-Fine-grained parcellation of the Human Corpus Callosum
 
 The Corpus Callosum (CC) is the largest white matter structure of the brain and offers the structural basis for an intense interaction between both cerebral hemispheres. Neuropathological processes are often reflected in structural alterations of the CC and a spatially precise description of structures for the healthy brain is essential for further differentiation of structural damage in patients.
 
